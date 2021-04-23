@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rimaro03
+- 👀 I’m interested in coding softwares
+- 🌱 I’m currently learning Java, JavaScript e Python
+- 📫 How to reach me: leonardo.ongaro2003@hotmail.com
