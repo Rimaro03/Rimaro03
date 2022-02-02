@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rimaro03
+- 👋 Hi, I’m Leonardo
 - 👀 I’m interested in coding softwares
-- 🌱 I’m currently learning JavaScript (React, Node)
+- 🌱 I’m currently learning React, Typescript
 - 📫 How to reach me: leonardo.ongaro2003@hotmail.com
