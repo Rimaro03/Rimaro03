@@ -12,7 +12,10 @@
 
 ###
 
-<p align="left">I'm Leonardo, from Italy!<br><br>- 🔭 Hard working as a UniPD student<br>- 📚 Currently learning kotlin/android</p>
+<p align="left">I'm Leonardo, from Italy!<br><br>
+  - 🔭 Hard working as a UniPD student (MSc in computer engineering) <br>
+  - 📚 Freelancer developer (Android, Web)
+</p>
 
 ###
 
