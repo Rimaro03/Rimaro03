@@ -13,7 +13,7 @@
 ###
 
 <p align="left">I'm Leonardo, from Italy!<br><br>
-  - 🔭 Hard working as a UniPD student (MSc in computer engineering) <br>
+  - 🔭 Hard working as a UniPD student (MsC in computer engineering, AI and robotics) <br>
   - 📚 Freelancer developer (Android, Web)
 </p>
 
